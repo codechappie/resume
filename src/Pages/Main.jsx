@@ -37,6 +37,7 @@ const Main = () => {
         width: 90%;
         margin: auto;
         min-height: 70vh;
+        margin-bottom: 20px;
         gap: 20px;
         @media screen and (max-width: 990px){
             grid-template-columns: 1fr;
